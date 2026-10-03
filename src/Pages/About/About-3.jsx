@@ -1,0 +1,11 @@
+const About3 = () => {
+    return (  
+        <div>
+            <p>
+                IM About page
+            </p>
+        </div>
+    );
+}
+ 
+export default About3;
