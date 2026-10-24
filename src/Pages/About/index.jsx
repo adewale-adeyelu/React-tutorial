@@ -8,8 +8,13 @@ const About = () => {
             <About1 />
             <About2 />
             <About3 />
+            <p>
+                In components About const is named according to the file which is still about, In pages the const will be named according to the folder name which will still be called about because we are dealing with about generally.
+            </p>
         </div>
     );
+
+    
 }
  
 export default About;

@@ -1,7 +1,7 @@
 const Faq = () => {
     return (  
         <div>
-            Frequently asked question
+            Frequently asked question 1
         </div>
     );
 }
